@@ -19,5 +19,11 @@ to user yuor environment variable.<br><br>
 
 <h2> method PUT<br><br>
 
+![put](https://user-images.githubusercontent.com/129814574/233862207-d92f3c4d-5188-4b30-95ce-e3681e4cb75e.png)<br><br>
+
+<h2> method DELETE<br><br>
+
+
+
 
 
