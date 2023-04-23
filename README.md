@@ -23,6 +23,9 @@ to user yuor environment variable.<br><br>
 
 <h2> method DELETE<br><br>
 
+![delete](https://user-images.githubusercontent.com/129814574/233862332-a1d2b53e-91c8-49a5-b0a7-1541991d9ace.png)
+
+
 
 
 
