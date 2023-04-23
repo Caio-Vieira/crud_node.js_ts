@@ -11,4 +11,9 @@ using the connection with MongoDB Atlas.<br>
 to user yuor environment variable.<br><br>
 <h2> method GET<br><br>
 
-![get](https://user-images.githubusercontent.com/129814574/233861422-06266f6e-2e94-4f96-9cf1-85bbbe3260d7.png)
+![get](https://user-images.githubusercontent.com/129814574/233861422-06266f6e-2e94-4f96-9cf1-85bbbe3260d7.png)<br><br>
+
+<h2> method POST<br><br>
+
+
+
