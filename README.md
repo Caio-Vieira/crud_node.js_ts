@@ -15,5 +15,9 @@ to user yuor environment variable.<br><br>
 
 <h2> method POST<br><br>
 
+![post](https://user-images.githubusercontent.com/129814574/233862052-fd095fd9-9f75-4565-a072-5f26aa31464c.png)<br><br>
+
+<h2> method PUT<br><br>
+
 
 
