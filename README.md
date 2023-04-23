@@ -8,4 +8,7 @@ using the connection with MongoDB Atlas.<br>
 <h2> To start the project.
 <h2> npm run start:ts.
 <h2> Using MongoDB Atlas it is necessary to configure the site, user and password,
-to user yuor environment variable.
+to user yuor environment variable.<br><br>
+<h2> method GET<br><br>
+
+![get](https://user-images.githubusercontent.com/129814574/233861422-06266f6e-2e94-4f96-9cf1-85bbbe3260d7.png)
